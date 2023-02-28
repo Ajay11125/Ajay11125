@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-kumar-yadav-96126a243/" target="blank"><img align="center" src="Ajay11125\Asset\linkedin.png" alt="https://www.linkedin.com/in/ajay-kumar-yadav-96126a243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-kumar-yadav-96126a243/" target="blank"><img align="center" src="https://www.shutterstock.com/image-photo/kiev-ukraine-june-7-2015-260nw-285114926.jpg" alt="https://www.linkedin.com/in/ajay-kumar-yadav-96126a243/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
