@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React,SpringBoot,and ML**
 
-- 👨‍💻 All of my projects are available at [portfolio/ajay11125](portfolio/ajay11125)
+- 👨‍💻 All of my projects are available at [portfolio/ajay11125](https://ajay11125.github.io/)
 
 - 📫 How to reach me **yadavajay11125@gmail.com**
 
